@@ -4,7 +4,7 @@ import Slider from "@/components/Slider";
 
 export default function Home() {
   return (
-    <main>
+    <main className="w-auto">
       <Slider/>
       <Featured/>
       <Offer/>
