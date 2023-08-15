@@ -14,7 +14,7 @@ type Product = {
       id: 1,
       title: "Siciliana",
       desc: "Feita com pepperoni apimentado, jalapeño e queijo. Prove essa delícia!",
-      img: "/temporary/p1.png",
+      img: "/temporary/p1.jpeg",
       price: 79.9,
       options: [
         {
